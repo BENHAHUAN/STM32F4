@@ -1,0 +1,13 @@
+.\objects\rt_system.o: ..\..\RTX\src\rt_System.c
+.\objects\rt_system.o: ..\..\RTX\inc\rt_TypeDef.h
+.\objects\rt_system.o: ..\..\RTX\inc\RTX_Config.h
+.\objects\rt_system.o: ..\..\RTX\inc\rt_Task.h
+.\objects\rt_system.o: ..\..\RTX\inc\rt_System.h
+.\objects\rt_system.o: ..\..\RTX\inc\rt_Event.h
+.\objects\rt_system.o: ..\..\RTX\inc\rt_List.h
+.\objects\rt_system.o: ..\..\RTX\inc\rt_Mailbox.h
+.\objects\rt_system.o: ..\..\RTX\inc\rt_Semaphore.h
+.\objects\rt_system.o: ..\..\RTX\inc\rt_Time.h
+.\objects\rt_system.o: ..\..\RTX\inc\rt_Timer.h
+.\objects\rt_system.o: ..\..\RTX\inc\rt_Robin.h
+.\objects\rt_system.o: ..\..\RTX\portable\rt_HAL_CM.h
